@@ -1,0 +1,656 @@
+@media only screen and (max-width: 600px) {
+    [data-aos-delay] {
+        transition-delay: 0s !important;
+    }
+
+    nav li:nth-child(1),
+    nav li:nth-child(2),
+    nav li:nth-child(3),
+    nav li:nth-child(4),
+    nav li:nth-child(5),
+    nav li:nth-child(6),
+    nav li:nth-child(7), .lavalamp-menu .lavalamp {
+        display: none;
+    }
+
+    .homeIcon {
+        width: 8%;
+        position: relative;
+        margin-left: -3%;
+    }
+
+    .cargillLogo {
+        width: 13%;
+        position: relative;
+        margin-top: -23%;
+        margin-left: -54%;
+    }
+
+    #google_translate_element {
+        position: relative;
+        margin-top: -17%;
+        margin-left: 13%;
+    }
+
+    #home {
+        min-height: 43vh !important;
+    }
+
+    .homeImg {
+        margin-top: 14%;
+    }
+
+    .home-desc1 {
+        font-size: 2.2vw;
+    }
+
+    .home-desc2 {
+        font-size: 3vw;
+    }
+
+    .home-heading {
+        font-size: 4vw;
+        top: 23%;
+        left: 6%;
+    }
+
+    #section-1 {
+        min-height: 31vh;
+    }
+
+    .inclusiveMozaic {
+        width: 32%;
+        top: 7%;
+    }
+
+    .section-1-heading-effect {
+        top: 4%;
+    }
+
+    #section-1 {
+        min-height: 43vh;
+        height: auto;
+    }
+
+    .counter-count {
+        line-height: 92px;
+        width: 73px;
+
+    }
+
+    .card {
+        width: 42vw;
+        height: 27vh;
+    }
+
+    .card-heading,
+    .card-heading:hover {
+        font-size: 2.3vw !important;
+    }
+
+    .button {
+        font-size: 2.1vw;
+    }
+
+    .back .pathwayVisitor,
+    .back .pvCount,
+    .back .degreedFollower,
+    .back .DFCount,
+    .back .description {
+        font-size: 1.5vw;
+    }
+
+    .dataInfo {
+        font-size: 2vw;
+    }
+
+    #section-2 {
+        /* height: 1650px; */
+        min-height: 164vh;
+    }
+
+    .slide31 {
+        font-size: 1.5vw;
+    }
+
+    .border-Right {
+        height: 9vh;
+    }
+
+    .next {
+        right: -12px;
+    }
+
+    .prev {
+        left: -12px;
+    }
+
+    #section-3 {
+        min-height: 34vh;
+    }
+
+    .section-4-row {
+        width: 98.5%;
+    }
+
+    .activeMenu4,
+    .showDiv4 {
+        font-size: 1.9vw;
+    }
+
+    .content41-desc1 {
+        font-size: 2.2vw;
+    }
+
+    .instructionDiv2,
+    .instructionDiv3,
+    .instructionDiv4,
+    .instructionDiv5,
+    .instructionDiv6 {
+        font-size: 1.5vw;
+    }
+
+    .instructionDiv3 {
+        top: 36%;
+    }
+
+    .instructionDiv4 {
+        top: 34%;
+        left: 54%;
+    }
+
+    .content41-typography {
+        height: 12vh;
+    }
+
+    .content41-screenshots {
+        min-height: 20vh;
+    }
+
+    .htmlHeading {
+        font-size: 2.5vw;
+    }
+
+    .htmlDesc {
+        font-size: 1.5vw;
+    }
+
+    .instructionDiv5 {
+        top: -10%;
+    }
+
+    .slideHTML1 {
+        font-size: 1.5vw;
+    }
+
+    .innovationHeading {
+        font-size: 3vw;
+    }
+
+    .innovationDesc1 {
+        font-size: 2.1vw;
+    }
+
+    .mySlidesIn {
+        display: none;
+        min-height: 46vh;
+    }
+
+    #section-4 {
+        min-height: 118vh;
+    }
+
+    #section-5 {
+        min-height: 83vh;
+    }
+
+    .section-5-heading1 {
+        font-size: 3vw;
+    }
+
+    .section-5-desc1 {
+        font-size: 2.2vw;
+    }
+
+    .card-icon {
+        display: none;
+    }
+
+    .cardBox1,
+    .cardBox2,
+    .cardBox3,
+    .cardBox4,
+    .cardBox5,
+    .cardBox6 {
+        font-size: 1.6vw;
+    }
+
+    .arrow {
+        padding: 3px;
+        left: 77%;
+        top: 36%;
+    }
+
+    .trendsHeading {
+        font-size: 3vw;
+    }
+
+    .trends-slide-desc {
+        font-size: 2.1vw;
+    }
+
+    #section-6 {
+        min-height: 67.5vh;
+    }
+
+    .testimonials-heading {
+        font-size: 3vw;
+    }
+
+    .testimonials-desc {
+        color: white;
+        font-size: 2.4vw;
+    }
+
+    .testimonials-slide-heading {
+        font-size: 2.3vw;
+    }
+
+    .testimonial-name {
+        font-size: 2.1vw;
+    }
+
+    .testimonials-slide-desc {
+        font-size: 2.2vw;
+    }
+
+    .testimonial-name {
+        font-size: 2.1vw;
+    }
+
+    .testimonial-quotation {
+        top: -4%;
+        left: 12%;
+    }
+
+    .testimonial-line {
+        display: none;
+    }
+
+    #testimonials-dot1 {
+        top: 37%;
+    }
+
+    #testimonials-dot2 {
+        top: 47%;
+    }
+
+    #testimonials-dot3 {
+        top: 57%;
+    }
+
+    #testimonials-dot4 {
+        top: 67%;
+    }
+
+    .footerTitles {
+        font-size: 2.3vw;
+    }
+
+    .copyRights {
+        font-size: 2vw;
+    }
+    .cta-more-box1, .cta-more-box2, .cta-more-box3 {
+        display: none;
+    }
+}
+
+@media only screen and (min-width: 768px) {
+    [data-aos-delay] {
+        transition-delay: 0s !important;
+    }
+
+    .homeIcon {
+        width: 6%;
+        position: relative;
+        margin-left: -11%;
+    }
+
+    .cargillLogo {
+        width: 7%;
+        position: relative;
+        margin-top: -12%;
+        margin-left: -54%;
+    }
+
+    #google_translate_element {
+        position: relative;
+        margin-top: -9%;
+        margin-left: 32%;
+    }
+
+    nav li:nth-child(1),
+    nav li:nth-child(2),
+    nav li:nth-child(3),
+    nav li:nth-child(4),
+    nav li:nth-child(5),
+    nav li:nth-child(6),
+    nav li:nth-child(7), .lavalamp-menu .lavalamp {
+        display: none;
+    }
+
+    #home {
+        min-height: 67vh;
+    }
+
+    #section-1 {
+        min-height: 75vh;
+    }
+
+    #section-2 {
+        min-height: 144vh;
+    }
+
+    #section-3 {
+        min-height: 57vh;
+    }
+
+    .section-4-row {
+        width: 96%;
+    }
+
+    .mySlidesIn {
+        min-height: 54vh;
+    }
+
+    #section-4 {
+        min-height: 192vh;
+    }
+
+    .arrow {
+        left: 81%;
+    }
+
+    #section-5 {
+        min-height: 106vh;
+    }
+
+    .testimonial-line {
+        display: none;
+    }
+
+    #testimonials-dot1 {
+        top: 37%;
+    }
+
+    #testimonials-dot2 {
+        top: 47%;
+    }
+
+    #testimonials-dot3 {
+        top: 57%;
+    }
+
+    #testimonials-dot4 {
+        top: 67%;
+    }
+    .cta-more.footer.isactive .cta-more-box1 {
+        left: 16%;
+        top: -3px;
+    }
+    .cta-more.footer.isactive .cta-more-box2 {
+        left: 6%;
+        top: -3px;
+    }
+    .cta-more.footer.isactive .cta-more-box3 {
+        left: 12%;
+        top: -3px;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+    nav li:nth-child(1),
+    nav li:nth-child(2),
+    nav li:nth-child(3),
+    nav li:nth-child(4),
+    nav li:nth-child(5),
+    nav li:nth-child(6),
+    nav li:nth-child(7) {
+        display: inline-block;
+    }
+
+    .lavalamp-menu .lavalamp{
+        display: block;
+    }
+    
+    /* .lavalamp-menu .lavalamp{
+        width: 98px; 
+        left: 82px;
+    } */
+    .homeIcon{
+        width: 5%;
+        position: absolute;
+        left: -21%;
+        top: 7%;
+        margin-left: 0;
+    }
+    
+    .cargillLogo {
+        width: 7%;
+        margin-top: 1%;
+        position: absolute;
+        left: -10%;
+        margin-left: 0;
+    }
+    
+    #google_translate_element {
+        position: absolute;
+        top: 11%;
+        right: -22%;
+        margin-left: 0;
+        margin-top: 0;
+    }
+    .lavalamp-menu li {
+        margin: 0 10px;
+    }
+
+    .lavalamp-menu a {
+        font-size: 1.1vw;
+    }
+
+    .section-4-row {
+        width: 95%;
+    }
+
+    .arrow {
+        left: 83%;
+    }
+
+    .testimonial-line {
+        display: none;
+    }
+
+    #testimonials-dot1 {
+        top: 37%;
+    }
+
+    #testimonials-dot2 {
+        top: 47%;
+    }
+
+    #testimonials-dot3 {
+        top: 57%;
+    }
+
+    #testimonials-dot4 {
+        top: 67%;
+    }
+    .cta-more.footer.isactive .cta-more-box1 {
+        left: 22%;
+        top: 0px;
+    }
+    .cta-more.footer.isactive .cta-more-box2 {
+        left: 12%;
+        top: 0px;
+    }
+    .cta-more.footer.isactive .cta-more-box3 {
+        left: 18%;
+        top: 0px;
+    }    
+
+}
+
+@media only screen and (min-width: 1440px) {
+    .lavalamp-menu li {
+        margin: 0 15px;
+      }
+    #section-1 {
+        /* height: 900px; */
+        min-height: 92vh;
+        height: auto;
+        margin-top: -2%;
+        position: relative;
+    }
+
+    #section-2 {
+        /* height: 1650px; */
+        min-height: 200vh;
+        height: auto;
+    }
+
+    #section-3 {
+        /* height: 900px; */
+        min-height: 80vh;
+        height: auto;
+    }
+
+    #section-4 {
+        /* height: 2200px; */
+        min-height: 220vh;
+        height: auto;
+    }
+
+    #section-5 {
+        /* height: 100px; */
+        min-height: 141vh;
+        height: auto;
+    }
+
+    #section-6 {
+        /* height: 100px; */
+        min-height: 81.5vh;
+        height: auto;
+    }
+
+    .section-4-row {
+        width: 94%;
+    }
+
+    .testimonial-line {
+        display: block;
+        top: 50%;
+        left: 10.6%;
+    }
+
+    #testimonials-dot1 {
+        position: absolute;
+        top: 47%;
+        left: 10%;
+    }
+
+    #testimonials-dot2 {
+        position: absolute;
+        top: 56%;
+        left: 10%;
+    }
+
+    #testimonials-dot3 {
+        position: absolute;
+        top: 65%;
+        left: 10%;
+    }
+
+    #testimonials-dot4 {
+        position: absolute;
+        top: 74%;
+        left: 10%;
+    }
+
+    .cta-more.footer.isactive .cta-more-box1 {
+        left: 27%;
+        top: 6px;
+        width: 46px;
+        height: 46px;
+        border: 2px solid #fff;
+        border-radius: 50px;
+    }
+    
+    .cta-more.footer.isactive .cta-more-box2 {
+        left: 16%;
+        top: 6px;
+        width: 46px;
+        height: 46px;
+        border: 2px solid #fff;
+        border-radius: 50px;
+    }
+    
+    .cta-more.footer.isactive .cta-more-box3 {
+        left: 22%;
+        top: 6px;
+        width: 46px;
+        height: 46px;
+        border: 2px solid #fff;
+        border-radius: 50px;
+    }
+}
+
+@media only screen and (min-width: 2560px) {
+    #home {
+        min-height: 100vh;
+    }
+
+    #section-1 {
+        min-height: 75vh;
+    }
+
+    #section-2 {
+        min-height: 155vh;
+    }
+
+    .lavalamp-menu {
+        height: 96px;
+    }
+
+    .lavalamp-menu li {
+        font-size: 1.2vw;
+    }
+
+    .instructionDiv5 {
+        top: -45%;
+        left: 3%;
+    }
+
+    .testimonial-line {
+        display: none;
+    }
+
+    #testimonials-dot1 {
+        top: 37%;
+    }
+
+    #testimonials-dot2 {
+        top: 47%;
+    }
+
+    #testimonials-dot3 {
+        top: 57%;
+    }
+
+    #testimonials-dot4 {
+        top: 67%;
+    }
+    .cta-more.footer.isactive .cta-more-box1, .cta-more.footer.isactive .cta-more-box2, .cta-more.footer.isactive .cta-more-box3 {
+        top: 23px;
+    }
+}
