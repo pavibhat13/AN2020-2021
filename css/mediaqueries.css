@@ -1,0 +1,390 @@
+/* @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    [data-aos-delay] {
+        transition-delay: 0s !important;
+    }
+
+    .main a{
+        width: 14px;
+        height: 38px;
+}
+} */
+    
+@media only screen and (max-width: 600px) {
+    [data-aos-delay] {
+        transition-delay: 0s !important;
+    }
+
+    .main a{
+        width: 62px;
+        height: 38px;
+        letter-spacing: 2px;
+}
+
+    nav li:nth-child(1),
+    nav li:nth-child(2),
+    nav li:nth-child(3),
+    nav li:nth-child(4),
+    nav li:nth-child(5),
+    nav li:nth-child(6),
+    nav li:nth-child(7), .lavalamp-menu .lavalamp {
+        display: none;
+    }
+
+    .homeIcon {
+        width: 8%;
+        position: relative;
+        margin-left: -3%;
+    }
+
+    .cargillLogo {
+        width: 13%;
+        position: relative;
+        margin-top: -23%;
+        margin-left: -54%;
+    }
+
+    #google_translate_element {
+        position: relative;
+        margin-top: -19%;
+        margin-left: 13%;
+    }
+
+    #home {
+        min-height: 36vh;
+    }
+
+    .mainPageHeading {
+        top: 30%;
+        left: 29%;
+        font-size: 3.6vw;
+    }
+
+    .mainPageLaptop {
+        position: absolute;
+        top: 26%;
+        width: 90%;
+        left: 5%;
+    }
+    div.mouse {
+        position: relative;
+        margin: 0 auto;
+        display: block;
+        width: 30px;
+        height: 43px;
+    }
+
+    .scrollText,
+.scrollText:hover {
+    color: black;
+    font-size: 2.2vw;
+}
+
+    #section-1 {
+        min-height: 43vh;
+    }
+
+    .section-1-heading {
+        font-size: 3.5vw;
+    }
+
+    #section-2 {
+        min-height: 85vh;
+    }
+
+    .section-2-icon {
+        width: 55%;
+    }
+
+    .section-2-icon-desc {
+        font-size: 1.8vw;
+    }
+
+    .dataColors {
+        font-size: 2.3vw;
+    }
+
+    .dataStar {
+        font-size: 2vw;
+    }
+
+    .fun-fact-text {
+        font-size: 1.5vw;
+        width: 80%;
+        top: 20%;
+        left: 15%;
+    }
+
+    .section-1-subHeading {
+        color: #007681;
+        font-size: 2.4vw;
+        padding: 1% 12%;
+    }
+
+    .timeline-list {
+        font-size: 2vw;
+        margin-left: 13%;
+    }
+
+    .main-timeline .timeline {
+        width: calc(60% + 120px);
+    }
+
+    .main-timeline .timeline-year{
+        width: 77px;
+    }
+
+    .year-line-height1{
+        line-height: 30vh;
+    }
+
+    .oddTable th, .oddTable tr td, .evenTable th, .evenTable tr td{
+        padding: 1%;
+        font-size: 2vw;
+    }
+
+    .testimonials-desc-1 {
+        font-size: 2vw;
+    }
+
+    .testimonial-sub-heading-1 {
+        top: 29%;
+        left: 60%;
+        font-size: 3.3vw;
+    }
+
+    .testimonial-sub-heading-2 {
+        top: 71%;
+        left: 7%;
+        font-size: 3.3vw;
+    }
+
+    .quote-names,
+    .quote-names2 {
+        font-size: 2vw;
+    }
+
+    #section-4 {
+        /* height: 2200px; */
+        min-height: 110vh;
+    }
+
+    .proudDivName {
+        font-size: 2.8vw;
+    }
+
+    .proudNameDesignation {
+        font-size: 2.5vw;
+    }
+
+    .proudDivDesc {
+        font-size: 2vw;
+    }
+
+    .projectHeading {
+        font-size: 2.3vw;
+    }
+
+    .proudDiv1 ul li,
+    .proudDiv2 ul li {
+        font-size: 2vw;
+    }
+
+    .processDivHeading {
+        font-size: 2.5vw;
+    }
+
+    .processDiv ul li {
+        font-size: 1.7vw;
+    }
+
+    .processIcon {
+        width: 37%;
+    }
+
+}
+
+@media only screen and (min-width: 768px) {
+    [data-aos-delay] {
+        transition-delay: 0s !important;
+    }
+    .main a{
+        width: 140px;
+        height: 80px;
+        letter-spacing: 4px;
+}
+    .homeIcon {
+        width: 6%;
+        position: relative;
+        margin-left: -11%;
+    }
+
+    .cargillLogo {
+        width: 7%;
+        position: relative;
+        margin-top: -12%;
+        margin-left: -54%;
+    }
+
+    #google_translate_element {
+        position: relative;
+        margin-top: -11%;
+        margin-left: 32%;
+    }
+
+    nav li:nth-child(1),
+    nav li:nth-child(2),
+    nav li:nth-child(3),
+    nav li:nth-child(4),
+    nav li:nth-child(5),
+    nav li:nth-child(6),
+    nav li:nth-child(7), .lavalamp-menu .lavalamp {
+        display: none;
+    }
+
+    #home {
+        min-height: 60vh;
+    }
+
+    .mainPageHeading {
+        position: absolute;
+        top: 17%;
+    }
+
+    div.mouse {
+        width: 38px;
+        height: 58px;
+    }
+
+    .main-timeline .timeline {
+        width: calc(71% + 120px);
+    }
+
+    .main-timeline .timeline-year{
+        width: 100px;
+    }
+
+    .oddTable th, .oddTable tr td, .evenTable th, .evenTable tr td{
+        padding: 1%;
+        font-size: 2vw;
+    }
+
+    #section-4 {
+        min-height: 170vh;
+    }
+
+    .processIcon {
+        width: 27%;
+    }
+
+}
+
+@media only screen and (min-width: 1024px) {
+    .main a{
+            width: 185px;
+            height: 80px;
+    }
+    nav li:nth-child(1),
+    nav li:nth-child(2),
+    nav li:nth-child(3),
+    nav li:nth-child(4),
+    nav li:nth-child(5),
+    nav li:nth-child(6),
+    nav li:nth-child(7) {
+        display: inline-block;
+    }
+
+    .lavalamp-menu .lavalamp{
+        display: block;
+    }
+    
+    /* .lavalamp-menu .lavalamp{
+        width: 98px; 
+        left: 82px;
+    } */
+    .homeIcon {
+        width: 8%;
+        position: absolute;
+        left: -61%;
+        top: 15%;
+        margin-left: 0;
+    }
+    
+    .cargillLogo {
+        width: 11%;
+        margin-top: 4%;
+        position: absolute;
+        left: -39%;
+        margin-left: 0;
+    }
+    
+    #google_translate_element {
+        position: absolute;
+        top: 11%;
+        right: -58%;
+        margin-left: 0;
+        margin-top: 0;
+    }
+
+    .lavalamp-menu li {
+        margin: 0 10px;
+    }
+
+    .lavalamp-menu a {
+        font-size: 1.1vw;
+    }
+
+    .main-timeline .timeline-year{
+        width: 120px;
+    }
+
+    .oddTable th, .oddTable tr td, .evenTable th, .evenTable tr td{
+        padding: 1%;
+        font-size: 1.1vw;
+    }
+}
+
+@media only screen and (min-width: 1440px) {
+
+    .lavalamp-menu li {
+        margin: 0 15px;
+    }
+
+    .homeIcon {
+        width: 8%;
+        position: absolute;
+        left: -61%;
+        top: 10%;
+        margin-left: 0;
+        margin-top: 0%;
+    }
+    
+    .cargillLogo {
+        width: 11%;
+        margin-top: 2%;
+        position: absolute;
+        left: -39%;
+        margin-left: 0;
+    }
+
+    div.mouse {
+        width: 50px;
+        height: 80px;
+    }
+
+    .main-timeline .timeline {
+        width: calc(54% + 60px);
+    }
+
+    .processIcon {
+        width: 14%;
+    }
+
+    .processDiv ul li {
+        font-size: 1.1vw;
+    }
+}
+
+@media only screen and (min-width: 2560px) {}
